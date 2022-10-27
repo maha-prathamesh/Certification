@@ -45,3 +45,10 @@ Disaster Recovery is the process and design principle which allows a system to r
 <img src='images/6_Disaster.JPG' width="500" height="300">
 </pre>
 
+### High availability
+<pre>
+High availability is the agreed level of operational uptime for the system. It is a simple calculation of system uptime versus whole lifetime of the system.
+
+<img src='images/7_HA.JPG' width="500" height="300">
+</pre>
+
