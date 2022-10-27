@@ -7,7 +7,7 @@
 	2) Describe the shared responsibility model
 	3) Define cloud models
 		public, private, hybrid, multicloud, Azure arc, Azure VMWare
-    	<img src="https://github.com/maha-prathamesh/Certification/blob/main/AZ-900/Module%201%20-%20Describe%20cloud%20concepts/images/Define%20cloud%20models.JPG" width="500" height="300">
+    	<img src="Module 1 - Describe cloud concepts/images/Define cloud models.JPG" width="500" height="300">
     
 	4) Describe the consumption-based model
 		Capital expenditure (CapEx) and operational expenditure (OpEx)
@@ -27,6 +27,6 @@
 	2) PAAS
 	3) SAAS
   
-  	<img src="https://github.com/maha-prathamesh/Certification/blob/main/AZ-900/Module%201%20-%20Describe%20cloud%20concepts/images/Describe%20the%20shared%20responsibility%20model.JPG" width="500" height="300">
+  	<img src="Module 1 - Describe cloud concepts/images/Describe the shared responsibility model.JPG" width="500" height="300">
   
 </pre>
